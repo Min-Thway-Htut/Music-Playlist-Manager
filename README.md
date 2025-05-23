@@ -1,5 +1,6 @@
 # 🎵 Music Playlist Manager
 
+## Overview
 
 A simple full-stack web application that allows users to manage a music playlist. This app uses **Python Flask** for the backend API and **React.js** for the frontend interface.
 
