@@ -26,12 +26,12 @@ A simple full-stack web application that allows users to manage a music playlist
 
  ## Installation Steps
  ### Clone the repository
-- git clone https://github.com/your-username/music-playlist-manager.git
-- cd music-playlist-manager
+<pre> ```bash git clone https://github.com/min-thway-htut/music-playlist-manager.git cd music-playlist-manager ``` </pre>
+<pre> ```bash cd music-playlist-manager ``` </pre>
 ### Install dependencies for the frontend 
-- cd frontend
-- npm install
-- npm start
+<pre> ```bash cd frontend ``` </pre>
+<pre> ```bash npm install ``` </pre>
+<pre> ```bash npm start ``` </pre>
 The app will start at http://localhost:3000 by default.
 ## Build for production (Optional)
 - npm run build
