@@ -19,6 +19,11 @@ A simple full-stack web application that allows users to manage a music playlist
 - **Backend**: Python Flask
 - **Data Storage**: In-memory list (no database)
 
+## Usage
+
+- You can make a list the song you listen to and remove it if it is no longer necessary.
+
+
 ## Prerequisites
 - Node.js ((v16 or higher recommended)
 - npm
