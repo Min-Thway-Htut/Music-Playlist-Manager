@@ -19,3 +19,19 @@ A simple full-stack web application that allows users to manage a music playlist
 - **Backend**: Python Flask
 - **Data Storage**: In-memory list (no database)
 
+## Prerequisites
+- Node.js ((v16 or higher recommended)
+- npm
+- Python flask
+
+ ## Installation Steps
+ ### Clone the repository
+- git clone https://github.com/your-username/music-playlist-manager.git
+- cd music-playlist-manager
+### Install dependencies for the frontend 
+- cd frontend
+- npm install
+- npm start
+The app will start at http://localhost:3000 by default.
+## Build for production (Optional)
+- npm run build
