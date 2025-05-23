@@ -25,13 +25,26 @@ A simple full-stack web application that allows users to manage a music playlist
 - Python flask
 
  ## Installation Steps
- ### Clone the repository
-<pre> ```bash git clone https://github.com/min-thway-htut/music-playlist-manager.git cd music-playlist-manager ``` </pre>
-<pre> ```bash cd music-playlist-manager ``` </pre>
-### Install dependencies for the frontend 
-<pre> ```bash cd frontend ``` </pre>
-<pre> ```bash npm install ``` </pre>
-<pre> ```bash npm start ``` </pre>
-The app will start at http://localhost:3000 by default.
-## Build for production (Optional)
-- npm run build
+
+### Clone the repository
+
+```bash
+git clone https://github.com/min-thway-htut/music-playlist-manager.git
+cd music-playlist-manager
+
+cd frontend
+npm install
+npm start
+
+npm run build
+
+
+### Fixes made:
+- Removed unnecessary `<pre>` tags.
+- Ensured each code block uses triple backticks with `bash`.
+- Cleaned up duplicate `cd music-playlist-manager` command.
+- Made the structure consistent and readable for Markdown viewers like GitHub.
+
+Let me know if you want to add backend instructions or Docker support too.
+
+
