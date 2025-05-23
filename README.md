@@ -26,7 +26,7 @@ A simple full-stack web application that allows users to manage a music playlist
 
  ## Installation Steps
 
-### Clone the repository
+
 
 ```bash
 git clone https://github.com/min-thway-htut/music-playlist-manager.git
