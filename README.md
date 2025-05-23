@@ -36,6 +36,5 @@ cd frontend
 npm install
 npm start
 
-
-
-
+cd backend
+python app.py
