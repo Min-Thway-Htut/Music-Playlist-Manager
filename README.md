@@ -36,15 +36,6 @@ cd frontend
 npm install
 npm start
 
-npm run build
 
-
-### Fixes made:
-- Removed unnecessary `<pre>` tags.
-- Ensured each code block uses triple backticks with `bash`.
-- Cleaned up duplicate `cd music-playlist-manager` command.
-- Made the structure consistent and readable for Markdown viewers like GitHub.
-
-Let me know if you want to add backend instructions or Docker support too.
 
 
